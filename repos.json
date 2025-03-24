@@ -10,7 +10,8 @@
       "versionDate": "2025-03-24",
       "versionDescription": "Initial release",
       "downloadURL": "https://yourusername.github.io/altstore-repo/MyApp.ipa",
-      "marketplaceIdentifier": "com.magicelk.nullroyal.market"
+      "marketplaceIdentifier": "com.magicelk.nullroyal.market",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/4/4e/P_icon.png"
     }
   ]
 }
