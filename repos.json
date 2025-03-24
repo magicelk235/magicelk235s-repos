@@ -1,0 +1,16 @@
+{
+  "name": "Magicelk235s repos",
+  "identifier": "com.magicelk.repo",
+  "apps": [
+    {
+      "name": "nulls royal",
+      "bundleIdentifier": "com.yourname.myapp",
+      "developerName": "Private",
+      "version": "1.0",
+      "versionDate": "2025-03-24",
+      "versionDescription": "Initial release",
+      "downloadURL": "https://yourusername.github.io/altstore-repo/MyApp.ipa",
+      "marketplaceIdentifier": "com.magicelk.nullroyal.market"
+    }
+  ]
+}
