@@ -4,13 +4,7 @@
     {
       "name": "nulls stars",
       "bundleIdentifier": "nt.nb.ios",
-      "developerName": "Private",
-      
-      
-      "versionDate": "2025-03-24",
-      "versionDescription": "Initial release",
-      "localizedDescription": "Private build of test app.",
-      
+      "developerName": "Private",   
       "iconURL": "https://raw.githubusercontent.com/magicelk235/magicelk235s-repos/main/image.png",
       "marketplaceID": "18372773626",
       "versions": [{
