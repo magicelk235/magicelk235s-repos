@@ -6,14 +6,23 @@
       "name": "nulls stars",
       "bundleIdentifier": "nt.nb.ios",
       "developerName": "Private",
-      "version": "1.0",
+      
+      
       "versionDate": "2025-03-24",
       "versionDescription": "Initial release",
       "localizedDescription": "Private build of test app.",
-      "downloadURL": "https://pixeldrain.com/u/ZixKjfcv?download",
-      "size": 682277704,
+      
       "iconURL": "https://raw.githubusercontent.com/magicelk235/magicelk235s-repos/main/image.png",
       "marketplaceID": "18372773626",
+      "versions": {
+          "version": "1.3.2",
+          "date": "2025-03-24T23:09:00+02:00",
+          "size": 682277704,
+          "buildVersion": "59",
+          "downloadURL": "https://pixeldrain.com/u/ZixKjfcv?download",
+          "localizedDescription": "app",
+          "minOSVersion": "17.0"
+        },
     }
   ]
 }
