@@ -9,6 +9,7 @@
       "version": "1.0",
       "versionDate": "2025-03-24",
       "versionDescription": "Initial release",
+      "localizedDescription": "Private build of Laser app.",
       "downloadURL": "https://yourusername.github.io/altstore-repo/MyApp.ipa",
       "marketplaceIdentifier": "com.magicelk.nullroyal",
       "iconURL": "https://raw.githubusercontent.com/magicelk235/magicelk235s-repos/main/image.png"
