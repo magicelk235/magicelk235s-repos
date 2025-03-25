@@ -12,7 +12,7 @@
       "localizedDescription": "Private build of test app.",
       "downloadURL": "https://yourusername.github.io/altstore-repo/MyApp.ipa",
       "marketplaceIdentifier": "com.magicelk.nullroyal",
-      "size": 29482
+      "size": 29482,
       "iconURL": "https://raw.githubusercontent.com/magicelk235/magicelk235s-repos/main/image.png"
     }
   ]
